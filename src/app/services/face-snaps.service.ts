@@ -1,6 +1,6 @@
 import { Injectable } from "@angular/core";
 import { throwError } from "rxjs";
-import { FaceSnap } from "../face-snap/models/face-snap.model";
+import { FaceSnap } from "../models/face-snap.model";
 
 @Injectable({
     providedIn: 'root'

@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FaceSnap } from '../face-snap/models/face-snap.model';
+import { FaceSnap } from '../models/face-snap.model';
 import { FaceSnapsService } from '../services/face-snaps.service';
 
 @Component({
